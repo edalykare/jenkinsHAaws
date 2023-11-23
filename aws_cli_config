@@ -1,0 +1,7 @@
+## Ces commandes devront etre entrée dans le power shell
+## Telecharger d'abord l'installation de aws cli et verifier à l'aide de aws --version
+aws config
+entrer le access id
+entrer le key
+entrer la region par defaut us-west-2
+entrer output format JSON
